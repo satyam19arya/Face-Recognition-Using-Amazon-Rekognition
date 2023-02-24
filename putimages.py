@@ -8,7 +8,8 @@ images=[('image1.jpg','Elon Musk'),
       ('image3.jpg','Bill Gates'),
       ('image4.jpg','Bill Gates'),
       ('image5.jpg','Sundar Pichai'),
-      ('image6.jpg','Sundar Pichai')
+      ('image6.jpg','Sundar Pichai'),
+      ('image7.png','Satyam Arya')
       ]
 
 # Iterate through list to upload objects to S3   
